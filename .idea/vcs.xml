@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../api_express_pacs/api-express-pacs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gerenciador-de-eventos-e-relatorios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../luacessorios_store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../projeto_ryan_completo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sistema-de-saldos-e-estoque" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DJANGO_REACT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../store_luacessorios/luacessorios_store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../teste/Freelaw-teste" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../teste/Freelaw_teste" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../teste/Freelaw_teste/teste-freelaw" vcs="Git" />
+  </component>
+</project>
